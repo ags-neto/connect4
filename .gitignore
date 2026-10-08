@@ -1,0 +1,26 @@
+# Builds (qmake / Qt Creator)
+build-*/
+*.pro.user
+*.pro.user.*
+Makefile
+Makefile.*
+moc_*
+qrc_*
+ui_*
+debug/
+release/
+
+# Objectos e executaveis (o alvo e Windows)
+*.o
+*.obj
+*.exe
+
+# Binarios criados por tests/run-tests.sh
+tests/build/
+
+# Saida de execucao escrita pelo jogo no directorio de trabalho
+leaderboard_pvm.txt
+leaderboard_pvp.txt
+savedgame_pvm.txt
+savedgame_pvp.txt
+savedgame_mvm.txt
