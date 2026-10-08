@@ -330,4 +330,6 @@ README.md                          este ficheiro
 
 ## License
 
-por definir — co-autoria (Inês Jorge da Silva e Ferreira)
+MIT — ver o ficheiro [`LICENSE`](LICENSE). O trabalho é de co-autoria:
+André Guilherme dos Santos Neto e Inês Jorge da Silva e Ferreira.
+
